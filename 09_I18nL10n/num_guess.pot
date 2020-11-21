@@ -1,0 +1,41 @@
+# Number Guess.
+# Copyright (C) 2020 Anton Khandzhyan
+# This file is distributed under the same license as the PACKAGE package.
+# Anton Khandzhyan, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Number_Guess 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-21 02:06+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: RU <RU@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: num_guess.c:19
+#, c-format
+msgid "Guess a number from %d to %d\n"
+msgstr ""
+
+#: num_guess.c:22
+#, c-format
+msgid "Is your number greater than %d?\n"
+msgstr ""
+
+#: num_guess.c:26
+msgid "yes\n"
+msgstr ""
+
+#: num_guess.c:28
+msgid "no\n"
+msgstr ""
+
+#: num_guess.c:32
+#, c-format
+msgid "Your number is %d\n"
+msgstr ""
