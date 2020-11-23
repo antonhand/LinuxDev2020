@@ -7,7 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Number_Guess 0.0\n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2020-11-23 05:43+0300\n"
+=======
+"POT-Creation-Date: 2020-11-23 05:28+0300\n"
+>>>>>>> 9a8ae974dc95d6e2d57e4d886fba42d5b7acd85f
 "PO-Revision-Date: 2020-11-21 02:17+0300\n"
 "Last-Translator:  <anton@n56vb.localdomain>\n"
 "Language-Team: Russian\n"
