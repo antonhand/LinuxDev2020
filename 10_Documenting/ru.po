@@ -69,7 +69,7 @@ msgid "yes\n"
 msgstr "да\n"
 
 #: num_guess.c:133
-msgid "no\n"
+msgid "no\n" 
 msgstr "нет\n"
 
 #: num_guess.c:141

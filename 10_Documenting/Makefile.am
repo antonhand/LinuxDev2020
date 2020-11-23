@@ -6,7 +6,7 @@ TRASH =  messages*.pot num_guess num_guess.o *.po~ ru num_guess.md
 @DX_RULES@
 
 ru/LC_MESSAGES/num_guess.mo: ru.po
-	mkdir -p `dirname $@`
+	mkdir -p `dirname $@` 
 	msgfmt $< -o $@
 
 ru.po:	messages.pot
