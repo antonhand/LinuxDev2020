@@ -1,0 +1,79 @@
+# Number Guess.
+# Copyright (C) 2020 Anton Khandzhyan
+# This file is distributed under the same license as the Number_Guess package.
+# Anton Khandzhyan, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Number_Guess 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-23 05:28+0300\n"
+"PO-Revision-Date: 2020-11-21 02:17+0300\n"
+"Last-Translator:  <anton@n56vb.localdomain>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. * Help string
+#: num_guess.c:30
+#, c-format
+msgid ""
+"Program guess your number from %d to %d\n"
+"\n"
+"Usage: num_guess [OPTIONS]\n"
+"\n"
+"\t--help\t\tprint this help\n"
+"\t--version\tprint version\n"
+"\t-r\t\tRoman mode\n"
+"\n"
+msgstr ""
+"Программа отгадывает число от %d до %d\n"
+"\n"
+"Использование: num_guess [ОПЦИИ]\n"
+"\n"
+"\t--help\t\tпечатает эту справку\n"
+"\t--version\tпечатает версию\n"
+"\t-r\t\tрежим римской записи чисел\n"
+"\n"
+
+#: num_guess.c:109
+#, c-format
+msgid "Guess a number from %s to %s\n"
+msgstr "Загадайте число от %s до %s\n"
+
+#: num_guess.c:113
+#, c-format
+msgid "Guess a number from %d to %d\n"
+msgstr "Загадайте число от %d до %d\n"
+
+#: num_guess.c:120
+#, c-format
+msgid "Is your number greater than %s\n"
+msgstr "Ваше число больше чем %s?\n"
+
+#: num_guess.c:124
+#, c-format
+msgid "Is your number greater than %d?\n"
+msgstr "Ваше число больше чем %d?\n"
+
+#: num_guess.c:130
+msgid "yes\n"
+msgstr "да\n"
+
+#: num_guess.c:134
+msgid "no\n"
+msgstr "нет\n"
+
+#: num_guess.c:142
+#, fuzzy, c-format
+msgid "Your number is %s\n"
+msgstr "Ваше число — %s\n"
+
+#: num_guess.c:146
+#, c-format
+msgid "Your number is %d\n"
+msgstr "Ваше число — %d\n"
